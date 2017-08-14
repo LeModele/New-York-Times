@@ -9,6 +9,6 @@
 <iframe width="854" height="480" src="https://xd.adobe.com/embed/7d568d15-7b69-49a0-be04-e016aa1b73c3" title='Video Walkthrough' frameborder="0" allowfullscreen></iframe>
 
 
-<li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+
       <div data-id="iframeId1" data-view="Iframe" data-src="https://xd.adobe.com/embed/7d568d15-7b69-49a0-be04-e016aa1b73c3/"></div>
-    </li>
+    
